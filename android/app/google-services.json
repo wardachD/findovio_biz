@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "722157186371",
+    "project_id": "findoviobusiness",
+    "storage_bucket": "findoviobusiness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722157186371:android:cc17f4bd5a67ed20a6d3f6",
+        "android_client_info": {
+          "package_name": "com.wardachd.findovio_business"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFxQlfhZdeNOin9KdbnfeOdZdvSFB5MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722157186371:android:4d41f2dbb5fca6e0a6d3f6",
+        "android_client_info": {
+          "package_name": "com.wardachd.findoviobusiness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFxQlfhZdeNOin9KdbnfeOdZdvSFB5MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
