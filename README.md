@@ -1,30 +1,93 @@
-# findovio_business
+<div align="center">
+<img src="https://raw.githubusercontent.com/wardachD/findovio_biz/assets/images/logo1.png" >
+</div>
 
-A new Flutter project.
 
-## Getting Started
+# management-app (findovio_biz)
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+Trying to achieve a simple process of finding a beauty salon by offering features such as customer account, salon search (by keywords, city, in radius), and an overview of booked services. Customers can rate salons, save favorite locations, repeat previous bookings with customization options, and navigate a user-friendly booking process - selecting services, and confirming the price and appointment time, culminating in the final booking confirmation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# App Showcase
 
-## Assets
+## Login
+<img src="appshowcase/intrologin (1).png" >
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
 
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
+### Create salon
+<img src="appshowcase/create salon.png" >
+<img src="appshowcase/create salon 2.png" >
 
-## Localization
 
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
+## Home
+<img src="appshowcase/mainmenu (1).png" >
 
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
+## Wallet
+<img src="appshowcase/wallet.png" >
+
+
+## Calendar
+<img src="appshowcase/calendar.png" >
+
+
+## Messages
+<img src="appshowcase/messages.png" >
+
+
+## Settings
+<img src="appshowcase/settings.png" >
+
+
+## main features
+
+🚧 complete navigation
+
+✅ welcome intro
+
+✅ firebase auth
+  ✅ forgotten credentials
+  ✅ Social login
+
+&nbsp;&nbsp;&nbsp;&nbsp;✅ login &nbsp;&nbsp;&nbsp;&nbsp;✅ register
+
+🚧 Booking process
+
+&nbsp;&nbsp;&nbsp;&nbsp;✅ from salon screen
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ list salon services
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ confirm chosen services
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ select booking date
+&nbsp;&nbsp;&nbsp;&nbsp;✅ confirmation screen
+
+&nbsp;&nbsp;&nbsp;&nbsp;✅ Book again
+
+&nbsp;&nbsp;&nbsp;&nbsp;✅ from favorite screen
+
+✅ search
+
+&nbsp;&nbsp;&nbsp;&nbsp;✅ By keywords, city and within the radius from the search query
+✅(test: fryzjer)
+✅(test: keywords = fryzjer, city = Gorzów Wielkopolski)
+
+🚧 fetch api
+
+&nbsp;&nbsp;&nbsp;&nbsp;✅ full model &nbsp;&nbsp;&nbsp;&nbsp;✅ thin model 
+&nbsp;&nbsp;&nbsp;&nbsp;✅ services model
+&nbsp;&nbsp;&nbsp;&nbsp;✅ reviews model &nbsp;&nbsp;&nbsp;&nbsp;✅ gallery
+
+✅ OpenStreet map with a pin of salon localization
+
+✅ messages
+
+## navigation structure
+
+![Graph of navigation structure](https://github.com/wardachD/Booking-app/blob/main/readme/app-nav-graph.png)
+
+
+## api resource 
+[API Booking App - Python (Django DRF) with postgresql (+postGis) ](https://github.com/wardachD/API_Booking_app)
+
+
+## test mode
+login: testme@random.com
+password: 12345678
