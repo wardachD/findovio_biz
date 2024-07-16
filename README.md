@@ -37,51 +37,24 @@ Trying to achieve a simple process of finding a beauty salon by offering feature
 ## Settings
 <img src="appshowcase/settings (1).png" >
 
+## Mail Status Updates
+<img src="https://i.ibb.co/cr3yCgd/create-salon-2.png" style="width: 600px;">
 
-## main features
 
-🚧 complete navigation
+
+## Main features
+
+✅ complete navigation
 
 ✅ welcome intro
-
 ✅ firebase auth
   ✅ forgotten credentials
-  ✅ Social login
-
 &nbsp;&nbsp;&nbsp;&nbsp;✅ login &nbsp;&nbsp;&nbsp;&nbsp;✅ register
-
-🚧 Booking process
-
-&nbsp;&nbsp;&nbsp;&nbsp;✅ from salon screen
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ list salon services
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ confirm chosen services
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ select booking date
-&nbsp;&nbsp;&nbsp;&nbsp;✅ confirmation screen
-
-&nbsp;&nbsp;&nbsp;&nbsp;✅ Book again
-
-&nbsp;&nbsp;&nbsp;&nbsp;✅ from favorite screen
-
-✅ search
-
-&nbsp;&nbsp;&nbsp;&nbsp;✅ By keywords, city and within the radius from the search query
-✅(test: fryzjer)
-✅(test: keywords = fryzjer, city = Gorzów Wielkopolski)
-
-🚧 fetch api
-
-&nbsp;&nbsp;&nbsp;&nbsp;✅ full model &nbsp;&nbsp;&nbsp;&nbsp;✅ thin model 
-&nbsp;&nbsp;&nbsp;&nbsp;✅ services model
-&nbsp;&nbsp;&nbsp;&nbsp;✅ reviews model &nbsp;&nbsp;&nbsp;&nbsp;✅ gallery
-
-✅ OpenStreet map with a pin of salon localization
-
+✅ wallet
+✅ salon data (partial) update - settings
+✅ web (react, vue, django, firebase) password reset
+✅ mail appointment status notification
 ✅ messages
-
-## navigation structure
-
-![Graph of navigation structure](https://github.com/wardachD/Booking-app/blob/main/readme/app-nav-graph.png)
 
 
 ## api resource 
