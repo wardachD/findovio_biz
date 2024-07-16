@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/wardachD/findovio_biz/assets/images/logo1.png" >
+<img src="assets/images/logo1.png" style="width: 300px;">
 </div>
 
 
