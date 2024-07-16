@@ -35,7 +35,7 @@ Trying to achieve a simple process of finding a beauty salon by offering feature
 
 
 ## Settings
-<img src="appshowcase/settings.png" >
+<img src="appshowcase/settings (1).png" >
 
 
 ## main features
